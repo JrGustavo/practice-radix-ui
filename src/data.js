@@ -1,0 +1,50 @@
+export const tasks = [
+    {
+        id: 1,
+        title: 'Tareas 1',
+        description: 'Descripcion de la tarea 1',
+        priority: 'low',
+        author: 'Jhon Doe',
+        created: '2021-10-10',
+    },
+    {
+        id: 2,
+        title: 'Tareas 1',
+        description: 'Descripcion de la tarea 1',
+        priority: 'low',
+        author: 'Jhon Doe',
+        created: '2021-10-10',
+    },
+    {
+        id: 3,
+        title: 'Tareas 1',
+        description: 'Descripcion de la tarea 1',
+        priority: 'low',
+        author: 'Jhon Doe',
+        created: '2021-10-10',
+    },
+    {
+        id: 4,
+        title: 'Tareas 1',
+        description: 'Descripcion de la tarea 1',
+        priority: 'low',
+        author: 'Jhon Doe',
+        created: '2021-10-10',
+    },
+    {
+        id: 5,
+        title: 'Tareas 1',
+        description: 'Descripcion de la tarea 1',
+        priority: 'low',
+        author: 'Jhon Doe',
+        created: '2021-10-10',
+    },
+    {
+        id: 6,
+        title: 'Tareas 1',
+        description: 'Descripcion de la tarea 1',
+        priority: 'low',
+        author: 'Jhon Doe',
+        created: '2021-10-10',
+    }
+]
